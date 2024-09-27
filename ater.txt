@@ -1,3 +1,2 @@
 print("ben war iyi oyunyorum.");
 print("forza horizonseverim");
-priny("silmek çin");
